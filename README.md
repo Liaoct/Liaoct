@@ -11,3 +11,4 @@ Follow me. ![GitHub followers](https://img.shields.io/github/followers/Liaoct)
 - 😄 Pronouns: 17713567330
 - ⚡ Fun fact: Shy
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyx990803)](https://github.com/anuraghazra/github-readme-stats)
